@@ -1,5 +1,4 @@
 # IBM-Project-8155-1658910217
-Retail Store Stock Inventory Analytics
 RETAIL STORE STOCK INVENTORY ANALYTICS
 This project aims to build an Analytical Dashboard for Sales Data using IBM Cognos
 
